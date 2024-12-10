@@ -6,8 +6,9 @@ Managed to display and manipulate text and make it follow the users head  -> for
 
 Managed to interact with the text, when clicked it changes -> for the user menu
 
-Worked on the Hololens emulator for Windows to be able to test the project as we develop
-
 Wrote code for the speech to text feature
 
-Set up translation API for the translation to other language feature
+W10 :
+-> Worked on the Hololens emulator for Windows to be able to test the project as we develop
+
+-> Set up translation API for the translation to other language feature
