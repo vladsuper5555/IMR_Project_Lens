@@ -8,7 +8,7 @@ Managed to interact with the text, when clicked it changes -> for the user menu
 
 Wrote code for the speech to text feature
 
-W10 :
+Week 10 :
 
 -> Worked on the Hololens emulator for Windows to be able to test the project as we develop
 
